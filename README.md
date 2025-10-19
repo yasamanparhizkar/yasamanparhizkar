@@ -17,6 +17,22 @@
   <img height="40" src="/youtube-icon.png"/>
 </a>
 
+<a href="https://x.com/YParhizkar17673">
+  <img height="40" src="/twitter-icon.png"/>
+</a>
+
+<a href="https://bsky.app/profile/yasamanp.bsky.social">
+  <img height="40" src="/bluesky-icon.png"/>
+</a>
+
+<a href="https://medium.com/@yasaman.parhizkar">
+  <img height="40" src="/medium-icon.png"/>
+</a>
+
+<a href="https://dev.to/yasaman_parhizkar">
+  <img height="40" src="/devto-icon.png"/>
+</a>
+
 <a href="mailto:yasaman.parhizkar@gmail.com">
   <img height="40" src="/gmail-icon.png"/>
 </a>
@@ -47,23 +63,6 @@
 <img height="500" width="200" src="/appdev.png"/>
 <img height="500" width="200" src="/cybersec.png"/>
 </div>
-
-<div align="center">
-  <h2>Looking to Collaborate On</h2>
-  <p>
-    Fun machine learning projects that I haven't done before. The subject doesn't really matter as long as the tech stack is exciting!
-  </p>
-</div>
-
-
-
-<div align="center">
-  <h2>Hobbies</h2>
-  <p>
-    Color pencil drawing, poetry, and learning about the history of language.
-  </p>
-</div>
-
 
 <div align="center">
 <h2> 🚀 My Tech Stack</h2>
