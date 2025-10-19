@@ -23,42 +23,52 @@
 
 </p>
 
+<div align="center">
+  <h2>What I Do</h2>
+</div>
 
+<div align="center">
+<img height="90" width="450" src="/analyze_graphs.gif"/>
+<img height="90" width="450" src="/interview_prep.gif"/>
+</div>
 
-## What I do
-Analyze heterogeneous, dynamic and incomplete graph data to find anomalies (my day job -sun-)
-Help myself and others prepare better for technical interviews (I help my 10x friend to hold preparation classes and teach the rest of us -eyes-)
-Compete in hackathons (for the adrenaline -devil face-)
-Go to tech socials (for some real life human interaction -hug-)
+<div align="center">
+<img height="90" width="450" src="/compete.gif"/>
+<img height="90" width="450" src="/tech_events.gif"/>
+</div>
+
 
 <div align="center">
   <h2>Currently Learning</h2>
 </div>
 
 <div align="center">
-<img alt="app development" src="https://img.shields.io/badge/app%20development-in%20progress">
-<img alt="app development" src="https://img.shields.io/badge/cyber%20security-in%20progress">
+
+<img height="500" width="200" src="/appdev.png"/>
+<img height="500" width="200" src="/cybersec.jpg"/>
 </div>
 
-## I'm looking to collaborate on
-Fun machine learning projects that I haven't done before. The subject doesn't really matter as long as the tech stack is exciting!
+<div align="center">
+  <h2>Looking to Collaborate On</h2>
+  <p>
+    Fun machine learning projects that I haven't done before. The subject doesn't really matter as long as the tech stack is exciting!
+  </p>
+</div>
 
-## Amazing people who taught me stuff
-Elham
-Arash
-Andrew
-Gene
 
-## Hobbies
-I draw with color pencils, and I love mythology, peotry and language. 
-Recently, I've been writing some English poetry (English is not my first language) which is very new and exciting to me!
-I enjoy seeing how English has changed in time and what the roots of our day-to-day words are.
 
-## How to reach me
-LinkedIn: https://www.linkedin.com/in/yasamanparhizkar/
-Email: yasaman.parhizkar@gmail.com
+<div align="center">
+  <h2>Hobbies</h2>
+  <p>
+    Color pencil drawing, poetry, and learning about the history of language.
+  </p>
+</div>
 
+
+<div align="center">
 <h2> 🚀 My Tech Stack</h2>
+</div>
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45"/>
@@ -78,8 +88,6 @@ Email: yasaman.parhizkar@gmail.com
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
 </p>
-
-![Snake animation](https://github.com/yasamanparhizkar/yasamanparhizkar/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
