@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
-<img height="90" width="450" src="/compete.gif"/>
+<img height="90" width="450" src="/hackathon.gif"/>
 <img height="90" width="450" src="/tech_events.gif"/>
 </div>
 
