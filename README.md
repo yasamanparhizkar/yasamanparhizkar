@@ -45,7 +45,7 @@
 <div align="center">
 
 <img height="500" width="200" src="/appdev.png"/>
-<img height="500" width="200" src="/cybersec.jpg"/>
+<img height="500" width="200" src="/cybersec.png"/>
 </div>
 
 <div align="center">
